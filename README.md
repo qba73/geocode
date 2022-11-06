@@ -1,4 +1,4 @@
-[![Go](https://github.com/qba73/geocode/actions/workflows/go.yml/badge.svg)](https://github.com/qba73/geocode/actions/workflows/go.yml)
+[![Go](https://github.com/qba73/geocode/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/qba73/geocode/actions/workflows/go.yml)
 
 # geocode
 
